@@ -1,7 +1,7 @@
 # Digital-Clock-with-HTML-CSS-JavaScript
 Digital Clock with HTML, CSS &amp; JavaScript
 
-Live Clock Link https://nitishindia.me/Digital-Clock-with-HTML-CSS-JavaScript/
+Live Clock Link https://nitishsingh925.github.io/Digital-Clock-with-HTML-CSS-JavaScript/
 
 
 this is a screenshot of digital clcok (index.html)
